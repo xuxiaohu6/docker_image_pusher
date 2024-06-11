@@ -1,3 +1,1 @@
-nginx
-linuxserver/heimdall
-0nlylty/dockercopilot
+0nlylty/dockercopilot:UGREEN
